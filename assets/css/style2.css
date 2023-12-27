@@ -9681,6 +9681,9 @@ footer .footer-btm .footer-btn-content .footer-social ul li a:hover {
   .service-details .how-we-work-section .work-item .custom-border {
     border: 3px solid white;
     padding: 3rem;
+    margin: 1rem;
+    min-height: 500px;
+    min-width: 100px;
   }
 }
 .service-details .how-we-work-section .work-item .single-work {
@@ -11099,3 +11102,7 @@ footer .footer-btm .footer-btn-content .footer-social ul li a:hover {
   display: none;
   visibility: hidden;
 }/*# sourceMappingURL=style2.css.map */
+
+label.error {
+  color: rgb(255, 30, 30) !important;
+}

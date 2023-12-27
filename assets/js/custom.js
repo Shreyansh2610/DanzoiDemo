@@ -263,13 +263,13 @@
         loop: true,
         slidesPerView: 3,
         spaceBetween: 30,
-        speed: 1000,
+        speed: 900,
         pagination: {
             el: ".swiper-pagination11",
             clickable: true,
         },
         autoplay: {
-            delay: 5000
+            delay: 1000
         },
         breakpoints: {
             280: {
